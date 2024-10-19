@@ -20,7 +20,7 @@ var todos = []*Todo{
 	},
 }
 
-func ListTodos() []*Todo { // Changed function name to ListTodos
+func ListTodos() []*Todo {
 	return todos
 }
 
